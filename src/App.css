@@ -8,3 +8,8 @@
     padding-left: 8px;
     cursor: pointer;
 }
+
+button {
+    margin-left: 4px;
+    margin-bottom: 1.5rem;
+}
